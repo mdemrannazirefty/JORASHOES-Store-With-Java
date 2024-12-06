@@ -22,11 +22,11 @@ The project also includes an admin panel for managing inventory, pricing, and or
 # Responsive Design:
 - Intuitive user interface with a clean, user-friendly layout.
 # Technical Details:
-- Total Classes: 35 (Well-structured for modularity)
-# Data Handling:
-- Used .text files to store and retrieve user, product, and order data efficiently.
-# Frameworks:
-Developed with Java GUI (AWT/Swing) for creating an interactive and responsive user interface.
+-Language: Java
+-Framework: Java GUI (AWT/Swing)
+-Data Storage: .text files
+-Class Count: 35 (organized for maintainability and scalability)
+-Year Created: 2022
 
 # Additional Resources:
 Demo Video: [Demo Video](https://youtu.be/MzVkocs72Ek?si=NpWrU94GI3R6UOlW)
