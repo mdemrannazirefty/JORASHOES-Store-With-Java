@@ -1,0 +1,12 @@
+User Name   : efty
+Password    : 1234
+Email       : 22-47802-2@student.aiub.edu
+Phone Number: 01679228352
+Time & Date : 00:30 AM, 01/01/2023
+===============================================
+User Name   : asd
+Password    : asd
+Email       : asd
+Phone Number: asd
+Time & Date : 01:49 AM, 01/01/2023
+===============================================
