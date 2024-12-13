@@ -30,6 +30,7 @@ The project also includes an admin panel for managing inventory, pricing, and or
 
 # Additional Resources:
 Demo Video: [Demo Video](https://youtu.be/MzVkocs72Ek?si=NpWrU94GI3R6UOlW)
+
 Contact for Support: mdemrannazirefty@gmail.com
 
 Let me know if you want to add any more details!
