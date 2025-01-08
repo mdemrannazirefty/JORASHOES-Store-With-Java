@@ -10,7 +10,7 @@ The project also includes an admin panel for managing inventory, pricing, and or
 # Dynamic Catalog:
 - Comprehensive product listings with categories for men, women, and kids.
 - Detailed product descriptions, including available sizes, colors, and prices.
-- 
+  
 # Shopping Cart and Checkout:
 - Add products to the cart and modify quantities.
 - Displays total order amount with an easy-to-use checkout process.
